@@ -1,2 +1,2 @@
 # datapro
-For heroku
+version 2 of data profiler
